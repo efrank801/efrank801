@@ -7,15 +7,15 @@
   <a href="mailto:efrank801@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/EFRANK801@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/efrank801" target="blank"><img align="center" src="https://img.shields.io/badge/EFRANK801-454545?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1OFX6Wv2y4I8CYhHg3zRuXW-oHuGtgLxP/view?usp=share_link" target="blank"><img align="center" src="https://img.shields.io/badge/Ethan Frank-FAF9F6?style=for-the-badge&logo=adobe&logoColor=red"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.instagram.com/ethannfrank/" target="blank"><img align="center" src="https://img.shields.io/badge/@ETHANNFRANK-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/ethannfrank" target="blank"><img align="center" src="https://img.shields.io/badge/ETHANNFRANK-454545?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -28,16 +28,15 @@
 <h2>About Me</h2>
 
 - 🏫: I'm a Junior Computational Biology Major at the University of Pittsburgh.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- 🔭: I’m currently working on practicing my Java with Minecraft Plugins.
+- 🌱: I’m currently learning computational models of drugs with RDKit.
+- 🤔: I’m looking for help with anything I am currently learning!
+- 😄: Pronouns: He/Him
+- ⚡: Fun fact: I play volleyball, soccer and the piano!
 
 <Br>
 
-<h2>Languages and IDEs</h2>
+<h2>Languages, IDEs, and Packages</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
@@ -76,53 +75,58 @@
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="rstudio">
   </a>
 </p>
-  
-<Br>
-<hr>
-<Br>
-<h1>Tools I use! 🛠️</h1>
-<Br>
- 
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
 
-<Br>
-<hr>
-<Br>
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RDKit-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="rdkit">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=whit" alt="numpy">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter">
+</p>
 
-<Br>
-<hr>
-<Br>
-<h1>Certifications! 🏆</h1>
-<Br>
+<h2>Projects</h2>
   
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
-|---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
-  
- 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethannfrank&repo=1000-Genomes-SNPs-Analysis)](https://github.com/ethannfrank/1000-Genomes-SNPs-Analysis)
 
-<Br>
-<hr>
-<Br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
+<h2>Relevant Coursework</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ALGORITHMS%20AND%20DATA%20STRUCTURES-454545?style=for-the-badge" alt="algorithms_and_data_structures">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/COMPUTATIONAL%20BIOLOGY-454545?style=for-the-badge" alt="computational_biology">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DISCRETE%20MATHEMATICS-454545?style=for-the-badge" alt="discrete_mathematics">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BIOLOGY-454545?style=for-the-badge" alt="discrete_mathematics">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SYNTHETIC%20BIOLOGY-454545?style=for-the-badge" alt="synthetic_biology">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CHEMISTRY-454545?style=for-the-badge" alt="chemistry">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ORGANIC%20CHEMISTRY-454545?style=for-the-badge" alt="organic_chemistry">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-454545?style=for-the-badge" alt="data_science">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SIMULATION%20AND%20MODELING-454545?style=for-the-badge" alt="simulation_and_modeling">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BIOINFORMATICS%20SOFTWARE%20DESIGN-454545?style=for-the-badge" alt="bioinformatics_software_design">
+</p>
+
+<h2>GitHub Stats</h2>
   
 [![Ethans's github stats](https://github-readme-stats.vercel.app/api?username=efrank801&show_icons=true&theme=merko)](https://github.com/efrank801/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrank801&layout=compact&theme=merko)](https://github.com/efrank801/github-readme-stats)
 
-<Br>
-<hr>
-<Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
+<h2>Thank You!</h2>
 
 ------
   
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
+Credit: [Ethan Frank](https://github.com/ethannfrank)
+Last Edited on: Feb 21 2023
