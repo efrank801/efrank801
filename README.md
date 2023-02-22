@@ -32,7 +32,7 @@
 - 🌱: I’m currently learning computational models of drugs with RDKit.
 - 🤔: I’m looking for help with anything I am currently learning!
 - 😄: Pronouns: He/Him
-- ⚡: Fun fact: I play volleyball, soccer and the piano!
+- ⚡: Fun fact: I have been working out everyday for the past 3 years!
 
 <Br>
 
