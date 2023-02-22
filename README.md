@@ -104,17 +104,19 @@
   <img src="https://img.shields.io/badge/DISCRETE%20MATHEMATICS-454545?style=for-the-badge" alt="discrete_mathematics">
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/BIOLOGY-454545?style=for-the-badge" alt="discrete_mathematics">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SYNTHETIC%20BIOLOGY-454545?style=for-the-badge" alt="synthetic_biology">
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SYNTHETIC%20BIOLOGY-454545?style=for-the-badge" alt="synthetic_biology">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CHEMISTRY-454545?style=for-the-badge" alt="chemistry">
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ORGANIC%20CHEMISTRY-454545?style=for-the-badge" alt="organic_chemistry">
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DATA%20SCIENCE-454545?style=for-the-badge" alt="data_science">
-  &nbsp;&nbsp;&nbsp;
+</p>
+  
+<p align="center">
   <img src="https://img.shields.io/badge/SIMULATION%20AND%20MODELING-454545?style=for-the-badge" alt="simulation_and_modeling">
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/BIOINFORMATICS%20SOFTWARE%20DESIGN-454545?style=for-the-badge" alt="bioinformatics_software_design">
