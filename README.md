@@ -28,7 +28,7 @@
 <h2>About Me</h2>
 
 - 🏫: I'm a Junior Computational Biology Major at the University of Pittsburgh.
-- 🔭: I’m currently working on practicing my Java with Minecraft Plugins.
+- 🔭: I’m currently working on practicing my Python with the PyGame library.
 - 🌱: I’m currently learning computational models of drugs with RDKit.
 - 🤔: I’m looking for help with anything I am currently learning!
 - 😄: Pronouns: He/Him
