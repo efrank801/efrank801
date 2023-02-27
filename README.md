@@ -124,11 +124,11 @@
 
 <h2>GitHub Stats</h2>
   
-[![Ethans's github stats](https://github-readme-stats.vercel.app/api?username=efrank801&show_icons=true&theme=merko)](https://github.com/efrank801/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrank801&layout=compact&theme=merko)](https://github.com/efrank801/github-readme-stats)
+[![Ethans's github stats](https://github-readme-stats.vercel.app/api?username=ethannfrank&show_icons=true&theme=merko)](https://github.com/ethannfrank/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethannfrank&layout=compact&theme=merko)](https://github.com/ethannfrank/github-readme-stats)
 
 <h2>Thank You!</h2>
 
 ------
   
 Credit: [Ethan Frank](https://github.com/ethannfrank)
-Last Edited on: Feb 21 2023
+Last Edited on: Feb 27 2023
