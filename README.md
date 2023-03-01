@@ -92,7 +92,7 @@
 
 <h2>Projects</h2>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethannfrank&repo=1000_genomes_snps_analysis)](https://github.com/ethannfrank/1000-Genomes-SNPs-Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethannfrank&repo=1000_genomes_snps_analysis)](https://github.com/ethannfrank/1000-Genomes-SNPs-Analysis) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethannfrank&repo=pycast_2d)](https://github.com/ethannfrank/pycast_2d)
 
 <h2>Relevant Coursework</h2>
 
